@@ -1,4 +1,4 @@
-/* Copyright 2018 Borna Pekaric
+/* Copyright (C) 2018 Borna Pekaric
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -17,6 +17,7 @@ Originally written in Orwell Dev-C++ 5.11*/
 
 #include <iostream>
 using namespace std;
+
 int main()
 {
 	int number = 1;
