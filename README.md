@@ -1,4 +1,4 @@
-# Fizz-buzz
+# Fizz buzz
 
 1. ABOUT
 
