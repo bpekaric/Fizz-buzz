@@ -18,4 +18,4 @@ This program is written in C++ using Orwell Dev-C++ 5.11.
 
 This program is licensed under GNU General Public License v3.0.
 
-Copyright 2018 Borna Pekaric
+Copyright 2018 Borna Pekarić
