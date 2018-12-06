@@ -1,8 +1,10 @@
-# Fizz buzz
+﻿# Fizz buzz
 
 1. ABOUT
 
 2. LEGAL
+
+3. CHANGELOG
 
 <br/>
 
@@ -19,3 +21,9 @@ This program is written in C++ using Orwell Dev-C++ 5.11.
 This program is licensed under GNU General Public License v3.0.
 
 Copyright 2018 Borna Pekarić
+
+<br/>
+
+1.1
+
+- Fixed author's name in copyright notice.
